@@ -30,7 +30,7 @@ substitutions:
   api_token: !secret api_token
 
   # ## static ip config ##
-  ip: "192.168.1.51"
+  ip: "192.168.1.196"
   gw: "192.168.1.1"
   subnet: "255.255.255.0"
   dns: "192.168.1.1"
